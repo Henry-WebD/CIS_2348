@@ -1,3 +1,5 @@
+#Henry Saravia, PSID: 1853318
+
 def exact_change(user_total):
     dollar = user_total // 100
     user_total %= 100
